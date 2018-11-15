@@ -1,6 +1,6 @@
 // Drew Williams
 // hw1108
-// https://github.com/Github-Archives/hw1011/tree/master
+// https://github.com/Github-Archives/hw1108/edit/master/Rehash.java
 
 import java.util.Random;
 
