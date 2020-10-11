@@ -5,9 +5,7 @@
 import java.util.Random;
 
 public class Rehash {
-
     public static void main(String[] args) {
-
         int count = 0;
         int index = 0;
         int size = 8;
@@ -15,7 +13,6 @@ public class Rehash {
         int max = 40;
         int var = 0;
         Random rand = new Random(97);
-
         int[] table = new int[size];
         int[] input = new int[20];
         int[] value = new int[41];
